@@ -1,28 +1,28 @@
 # Ejercicios con funciones de la librería NumPy
 
-Importar librería 
+- Importar librería 
 
-Crear una array (unidimensional) con 10 ceros
+- Crear una array (unidimensional) con 10 ceros
 
-Crear una array (unidimensional) con 10 unos
+- Crear una array (unidimensional) con 10 unos
 
-Crear una array con 10 cincos
+- Crear una array con 10 cincos
 
-Crear una array (unidimensional) con los números enteros desde 10 hasta 50
+- Crear una array (unidimensional) con los números enteros desde 10 hasta 50
 
-Crear una array (unidimensional) con los enteros pares comprendidos entre 10 y 50
+- Crear una array (unidimensional) con los enteros pares comprendidos entre 10 y 50
 
-Crear una matrix 3x3 con los enteros comprendidos entre 0 y 8
+- Crear una matrix 3x3 con los enteros comprendidos entre 0 y 8
 
-Crear una matriz identidad de orden 3
+- Crear una matriz identidad de orden 3
 
-Generar un número aleatorio proveniente de una distribución uniforma entre 0 y 1
+- Generar un número aleatorio proveniente de una distribución uniforma entre 0 y 1
 
-Obtener 25 núemmros aleatorios procedentes de una distribución normal estándar
+- Obtener 25 núemmros aleatorios procedentes de una distribución normal estándar
 
-Generar la siguiente matriz
+- Generar la siguiente matriz
 
-Crear un vector de 20 valores equidistantes enrte 0 y 1
+- Crear un vector de 20 valores equidistantes enrte 0 y 1
 
 
 ## Numpy  indexado o filtrado
