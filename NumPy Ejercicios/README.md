@@ -1,6 +1,6 @@
 # Ejercicios con funciones de la librería NumPy
 
-Importar librería
+Importar librería //
 Crear una array (unidimensional) con 10 ceros
 Crear una array (unidimensional) con 10 unos
 Crear una array con 10 cincos
