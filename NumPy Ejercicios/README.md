@@ -57,3 +57,8 @@ array([21, 22, 23, 24, 25])
 array([[16, 17, 18, 19, 20],
        [21, 22, 23, 24, 25]])
 
+## Realizar los siguientes cálculos
+
+- Suma de la matriz
+- Desviación típica de los valores de la matriz
+- Suma de los valores por columna de la matriz
